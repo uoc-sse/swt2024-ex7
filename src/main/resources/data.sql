@@ -3,7 +3,3 @@ INSERT INTO Product (id, name, description, quantity, price) VALUES (2, 'yMini',
 INSERT INTO Product (id, name, description, quantity, price) VALUES (3, 'yBook', 'A portable y computer.', 3019, 183999);
 INSERT INTO Product (id, name, description, quantity, price) VALUES (4, 'yPhone', 'The y smartphone.', 4039, 89999);
 INSERT INTO Product (id, name, description, quantity, price) VALUES (5, 'yWatch', 'A smartwatch by y.', 1095, 39999);
-
-INSERT INTO Store (id, location, manager) VALUES (1, 'Cologne', 'Alice Example');
-INSERT INTO Store (id, location, manager) VALUES (2, 'Düsseldorf', 'Bob Test');
-INSERT INTO Store (id, location, manager) VALUES (3, 'Dortmund', 'Carl Sample');
